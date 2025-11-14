@@ -1,8 +1,8 @@
 # WBL-Stau-Bau-UG
 
 ## 🏗️ Unser Projekt  
-Dieses Repository enthält die Website unseres **Wirtschafts-Berufs-Lehre (WBL)**-Projekts.  
-Im Rahmen des Unterrichts simulieren wir die **Gründung eines eigenen Unternehmens** – in unserem Fall die **Stau-Bau UG**, ein fiktives Unternehmen aus der Baubranche.
+Dieses Projekt enthält die Website für unser WBL Projekts.  
+Im Rahmen des Unterrichts simulieren wir die **Gründung eines eigenen Unternehmens** – in unserem Fall die **Stau-Bau UG** (`Von Stojanoski Luka & Lau Jan`) , ein fiktives Unternehmen aus der Baubranche.
 
 Die Website dient als digitale Visitenkarte unseres Unternehmens und präsentiert unsere Idee, unsere Leistungen sowie unser Team im Rahmen der Projektarbeit.
 
@@ -15,8 +15,7 @@ Die Website dient als digitale Visitenkarte unseres Unternehmens und präsentier
 
 ## 🌐 Website-Features  
 - Moderne, responsive Startseite (`index.html`)  
-- Individuelles Design mit eigenen CSS-Styles (`style.css`, `index.css`)  
-- Mehrsprachigkeit / Übersetzungsdateien im Ordner `locales/`  
+- Individuelles Design mit eigenen CSS-Styles (`style.css`, `index.css`)   
 - Fehlerseite  (`404.html`, `404.css`)  
 - Saubere Struktur über wiederverwendbare Komponenten (`/components`)  
 
@@ -25,8 +24,3 @@ Die Website dient als digitale Visitenkarte unseres Unternehmens und präsentier
 - **CSS** – Design & Layout  
 - **JavaScript** – Interaktivität & Sprachlogik  
 - **NPM** – optionale Scripts / Projektverwaltung  
-
-## 🚀 Nutzung & Entwicklung  
-### Projekt klonen  
-```bash
-git clone https://github.com/Croxy404/WBL-Stau-Bau-UG.git
