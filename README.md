@@ -1,7 +1,7 @@
 # WBL-Stau-Bau-UG
 
 ## 🏗️ Unser Projekt  
-Dieses Projekt enthält die Website für unser WBL Projekts.  
+Dieses Projekt enthält die Website (`6.714 Zeilen Code`) für unser WBL Projekts.  
 Im Rahmen des Unterrichts simulieren wir die **Gründung eines eigenen Unternehmens** – in unserem Fall die **Stau-Bau UG** (`Von Stojanoski Luka & Lau Jan`) , ein fiktives Unternehmen aus der Baubranche.
 
 Die Website dient als digitale Visitenkarte unseres Unternehmens und präsentiert unsere Idee, unsere Leistungen sowie unser Team im Rahmen der Projektarbeit.
